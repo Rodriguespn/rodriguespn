@@ -6,11 +6,19 @@ Software engineer passionate about AI, Data Science, and Web development. Foundi
 </p>
 
 <p>
-Have an idea? <a href="mailto:pedroneverodrigues@gmail.com">Hit me up</a>
+Have an idea? Let's talk!
+</p>
+
+<p align = "center">
+
+[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22&color=black"/>](mailto:pedroneverodrigues@gmail.com) 
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://rodriguespn.github.io)
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pedro-neves-rodrigues/)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/pedronrodrigues)
 </p>
 </div>
 
-## Skills:
+## Skills
 
 #### Languages
 
@@ -55,16 +63,6 @@ Have an idea? <a href="mailto:pedroneverodrigues@gmail.com">Hit me up</a>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-
-## Connect with me:
-
-<p align = "center">
-
-[<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white%22&color=black"/>](mailto:pedroneverodrigues@gmail.com) 
-[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://rodriguespn.github.io)
-[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/pedro-neves-rodrigues/)
-[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/pedronrodrigues)
-</p>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguespn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguespn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
