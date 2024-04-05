@@ -18,7 +18,7 @@ Have an idea? Let's talk!
 </p>
 </div>
 
-## Skills
+<h3>🚀 Skills</h3>
 
 #### Languages
 
@@ -63,6 +63,8 @@ Have an idea? Let's talk!
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<h3>🔥 My Stats</h3>
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguespn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguespn&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
