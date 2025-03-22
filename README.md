@@ -1,8 +1,8 @@
-<h2 align = "center">Hi there, I'm Pedro 👋 </h2> 
+<h2 align = "center">Hi there</h2> 
 
 <div align="center">
 <p align = "center">
-Software engineer passionate about AI, Data Science, and Web development. Founding engineer of a blockchain visual explorer startup with over 1200 users.
+Software engineer passionate about AI, Data Science, and Web development. Founding engineer of [Ward Analytics]([url](https://github.com/WardAnalytics/WardGraph)).
 </p>
 
 <p>
