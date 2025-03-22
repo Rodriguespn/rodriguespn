@@ -2,7 +2,7 @@
 
 <div align="center">
 <p align = "center">
-Software engineer passionate about AI, Data Science, and Web development. Founding engineer of [Ward Analytics]([url](https://github.com/WardAnalytics/WardGraph)).
+Software engineer passionate about AI, Data Science, and Web development. Founding engineer of [Ward Analytics](https://github.com/WardAnalytics/WardGraph).
 </p>
 
 <p>
