@@ -1,8 +1,5 @@
 <h2 align = "center">Hi there</h2> 
 
-Software engineer passionate about AI, Data Science, and Web development. Founding engineer of [Ward Analytics](https://github.com/WardAnalytics/WardGraph).
+Software engineer passionate about AI, MCP, and Web development. Software engineer @ [SingleStore]([url](https://www.singlestore.com/)) (former MemSQL) and ex Founding engineer of [Ward Analytics](https://github.com/WardAnalytics/WardGraph).
 
 Have an idea? Let's talk!
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rodriguespn&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Pedro's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodriguespn&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
